@@ -1,0 +1,227 @@
+(footprint "5u reversed stabs right stab only"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(descr "Footprint for Cherry Clip/Screw in type stabilizers, 5u")
+	(property "Reference" "MX41"
+		(at 0 0 0)
+		(layer "F.SilkS")
+		(hide yes)
+		(uuid "27ff62a0-5c1d-4928-99a4-5febc6b415ee")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "5u"
+		(at 0 8.128 0)
+		(layer "Cmts.User")
+		(uuid "70ffb67d-923d-4239-814d-741a7877589a")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" "~"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "447a8e13-4eea-4836-96e7-6827fd01864f")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" "Push button switch, normally open, two pins, 45° tilted"
+		(at 0 0 0)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "2965b849-fdb5-44f5-9d4c-8b64bc1f959b")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr through_hole exclude_from_pos_files)
+	(fp_line
+		(start -47.625 -9.525)
+		(end -47.625 9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "2e698a29-7033-4ad6-a9ec-b20968dcfbe4")
+	)
+	(fp_line
+		(start -47.625 -9.525)
+		(end 47.625 -9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "76ac7de7-cda9-43f3-8d4f-3e5966697f7e")
+	)
+	(fp_line
+		(start -47.625 9.525)
+		(end 47.625 9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "0a9982e1-b1e6-404b-a6f2-6318f27fbe1e")
+	)
+	(fp_line
+		(start -7 -7)
+		(end -5 -7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3289df01-caa9-467f-ad03-171a0a0406bd")
+	)
+	(fp_line
+		(start -7 -5)
+		(end -7 -7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "3c3802e5-181d-450a-a31c-9dae83d9e9e0")
+	)
+	(fp_line
+		(start -7 7)
+		(end -7 5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "94f375de-8976-4693-a1bb-de5f15b42cf8")
+	)
+	(fp_line
+		(start -5 7)
+		(end -7 7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "6ff9b040-4bc3-4fa9-a325-711939fb1a95")
+	)
+	(fp_line
+		(start 5 -7)
+		(end 7 -7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "64daaaa0-8dc0-41e3-b3a1-10b3abf8469f")
+	)
+	(fp_line
+		(start 5 7)
+		(end 7 7)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fb9959d8-4085-4056-b68d-8520016e206a")
+	)
+	(fp_line
+		(start 7 -7)
+		(end 7 -5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "093ae41d-1985-4b6d-bec2-11fa466768a6")
+	)
+	(fp_line
+		(start 7 7)
+		(end 7 5)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "1e36f1c8-62f3-4e19-8700-0f8ca0d03186")
+	)
+	(fp_line
+		(start 47.625 -9.525)
+		(end 47.625 9.525)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "Dwgs.User")
+		(uuid "fd7a4762-06c8-499b-a90d-59d9b1444947")
+	)
+	(pad "" np_thru_hole circle
+		(at -5.08 0 48.0996)
+		(size 1.75 1.75)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "b013eacc-9a96-4f5e-9993-fc9d466052b7")
+	)
+	(pad "" np_thru_hole circle
+		(at 0 0)
+		(size 3.9878 3.9878)
+		(drill 3.9878)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7b464315-e665-4825-adf3-827e43b4e07d")
+	)
+	(pad "" np_thru_hole circle
+		(at 5.08 0 48.0996)
+		(size 1.75 1.75)
+		(drill 1.75)
+		(layers "*.Cu" "*.Mask")
+		(uuid "2572c622-4b2f-4eda-a5c7-f6157eb08dfb")
+	)
+	(pad "" np_thru_hole circle
+		(at 38.101097 6.986738)
+		(size 3.048 3.048)
+		(drill 3.048)
+		(layers "*.Cu" "*.Mask")
+		(uuid "7422dc09-6653-424f-8f6a-1431aaf3bffa")
+	)
+	(pad "" np_thru_hole circle
+		(at 38.1016 -8.255 180)
+		(size 3.9878 3.9878)
+		(drill 3.9878)
+		(layers "*.Cu" "*.Mask")
+		(uuid "5ae049b3-b6f2-4156-b0d8-1731ff27b170")
+	)
+	(pad "1" thru_hole circle
+		(at -3.81 -2.54)
+		(size 2.25 2.25)
+		(drill 1.47)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "31c3b606-25bf-4930-b3e7-eca44f26e064")
+	)
+	(pad "2" thru_hole circle
+		(at 2.54 -5.08)
+		(size 2.25 2.25)
+		(drill 1.47)
+		(layers "*.Cu" "B.Mask")
+		(remove_unused_layers no)
+		(uuid "892f892e-a8e9-4388-818c-d48957929307")
+	)
+	(embedded_fonts no)
+)
