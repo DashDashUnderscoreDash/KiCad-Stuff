@@ -1,3 +1,3 @@
 # SKQGAFE010
 
-![KiCad Logo](https://github.com/DashDashUnderscoreDash/KiCad-Stuff/blob/main/Buttons/2%20Pin%20Button%20-%20TS09-63-25-WT-160-SMT-TR/Images/TS09-63-25-WT-160-SMT-TR.jpg)
+![Button image](https://github.com/DashDashUnderscoreDash/KiCad-Stuff/blob/main/Buttons/Low%204%20Pins%20-%20SKQGAFE010/Images/SKQGAFE010.jpg)
