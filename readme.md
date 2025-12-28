@@ -1,6 +1,6 @@
 # Dash's KiCad Libraries
 
-![KiCad Logo](https://github.com/DashDashUnderscoreDash/KiCad-Stuff/blob/main/Images/kicad_logo_small.png) X ![Dashkeebs Logo]([https://github.com/DashDashUnderscoreDash/KiCad-Stuff/blob/main/Images/kicad_logo_small.png](https://github.com/DashDashUnderscoreDash/Dashkeebs-Monthly-Case-Design-Contest-Entries/blob/main/dashkeebsTriangleOnlyWhite.png)
+![KiCad Logo](https://github.com/DashDashUnderscoreDash/KiCad-Stuff/blob/main/Images/kicad_logo_small.png) X ![Dashkeebs Logo](https://github.com/DashDashUnderscoreDash/Dashkeebs-Monthly-Case-Design-Contest-Entries/blob/main/dashkeebsTriangleOnlyWhite.png)
 
 ### __These are libraries that I use when I'm making boards in KiCad__
 
